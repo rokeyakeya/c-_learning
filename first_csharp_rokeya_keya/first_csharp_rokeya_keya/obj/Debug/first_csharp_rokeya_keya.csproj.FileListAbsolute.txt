@@ -1,0 +1,6 @@
+C:\Users\anyan\Desktop\Csharp_Git_Assignment\first_csharp_rokeya_keya\first_csharp_rokeya_keya\bin\Debug\first_csharp_rokeya_keya.exe.config
+C:\Users\anyan\Desktop\Csharp_Git_Assignment\first_csharp_rokeya_keya\first_csharp_rokeya_keya\bin\Debug\first_csharp_rokeya_keya.exe
+C:\Users\anyan\Desktop\Csharp_Git_Assignment\first_csharp_rokeya_keya\first_csharp_rokeya_keya\bin\Debug\first_csharp_rokeya_keya.pdb
+C:\Users\anyan\Desktop\Csharp_Git_Assignment\first_csharp_rokeya_keya\first_csharp_rokeya_keya\obj\Debug\first_csharp_rokeya_keya.csprojResolveAssemblyReference.cache
+C:\Users\anyan\Desktop\Csharp_Git_Assignment\first_csharp_rokeya_keya\first_csharp_rokeya_keya\obj\Debug\first_csharp_rokeya_keya.exe
+C:\Users\anyan\Desktop\Csharp_Git_Assignment\first_csharp_rokeya_keya\first_csharp_rokeya_keya\obj\Debug\first_csharp_rokeya_keya.pdb
