@@ -10,7 +10,7 @@ namespace first_csharp_rokeya_keya
     {
         static void Main(string[] args)
         {
-            Console.Write("hello world ");
+            Console.Write("Rokeya keya aiub");
         }
     }
 }
